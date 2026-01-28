@@ -78,3 +78,4 @@ yarn-error.log
 package-lock.json
 package.json
 android\build.gradle
+android/build.gradle
